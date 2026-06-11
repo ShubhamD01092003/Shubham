@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="a90ebed383158750f398ef80ceaad3bb" extends="task" label="Device Request" max_length="40" name="x_1916809_shubham_device_request" type="collection">
-        <element label="DemobyAbhi" max_length="40" name="demobyabhi" type="string"/>
-        <element label="Demo" max_length="40" name="demo" type="string"/>
         <element label="Demo2" max_length="40" name="demo2" type="string"/>
+        <element label="Demo" max_length="40" name="demo" type="string"/>
+        <element label="DemobyAbhi" max_length="40" name="demobyabhi" type="string"/>
     </element>
 </database>
